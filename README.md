@@ -1,3 +1,9 @@
+> [!CAUTION]
+> 本仓库发布的内容仅用于学习和研究目的，不得将本仓库内容用于商业或者非法用途。否则，一切后果由您自行负责。转载请注明作者和出处，谢谢。
+
+> [!IMPORTANT]
+> 有能力的请支持正版！
+
 ## Windows激活、Windows装机软件推荐
 > ##### 1.激活 [windows](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
