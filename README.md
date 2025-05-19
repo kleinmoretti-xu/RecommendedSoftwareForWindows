@@ -5,9 +5,9 @@
 > 有能力的请支持正版！
 
 ## Windows激活、Windows装机软件推荐
-> ##### 1.激活 [Windows](https://github.com/massgravel/Microsoft-Activation-Scripts)，禁止windows更新 [<ins>Windows Update Blocker</ins>](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
+> ##### 1.激活 [Windows](https://github.com/massgravel/Microsoft-Activation-Scripts)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>，禁止windows更新 [<ins>Windows Update Blocker</ins>](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
 
-> ##### 2.卸载工具 [<ins>Bulk-Crap-Uninstaller</ins>](https://github.com/Klocman/Bulk-Crap-Uninstaller) [<ins>HiBit Uninstaller</ins>](https://www.hibitsoft.ir/Uninstaller.html) [<ins>Geek Uninstaller</ins>](https://geekuninstaller.com/) [<ins>IObit Uninstaller</ins>](https://www.iobit.com/en/advanceduninstaller.php)*(付费)* [<ins>Revo Uninstaller</ins>](https://www.revouninstaller.com/zh/)*(付费)*
+> ##### 2.卸载工具 [<ins>Bulk-Crap-Uninstaller</ins>](https://github.com/Klocman/Bulk-Crap-Uninstaller)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup> [<ins>HiBit Uninstaller</ins>](https://www.hibitsoft.ir/Uninstaller.html) [<ins>Geek Uninstaller</ins>](https://geekuninstaller.com/) [<ins>IObit Uninstaller</ins>](https://www.iobit.com/en/advanceduninstaller.php)*(付费)* [<ins>Revo Uninstaller</ins>](https://www.revouninstaller.com/zh/)*(付费)*
 
 > ##### 3.内存管理 [Mem Reduct](https://memreduct.org/)
 
@@ -25,19 +25,19 @@
 
 > ##### 10.播放器 [PotPlayer](https://potplayer.daum.net/)
 
-> ##### 11.局域网互传 [localsend](https://github.com/localsend/localsend)
+> ##### 11.局域网互传 [localsend](https://github.com/localsend/localsend)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>
 
 > ##### 12.搜索 [Everything](https://www.voidtools.com/zh-cn/)
 
-> ##### 13.直播聚合平台 [SimpleLive](https://github.com/xiaoyaocz/dart_simple_live)
+> ##### 13.直播聚合平台 [SimpleLive](https://github.com/xiaoyaocz/dart_simple_live)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>
 
 > ##### 14.远程工具 [<ins>ToDesk</ins>](https://www.todesk.com/) [<ins>RustDesk</ins>](https://rustdesk.com/zh-cn/)
 
-> ##### 15.网络工具 [<ins>v2rayN</ins>](https://github.com/2dust/v2rayN) [<ins>SingBox</ins>](https://github.com/GUI-for-Cores/GUI.for.SingBox) [<ins>Karing</ins>](https://github.com/KaringX/karing)
+> ##### 15.网络工具 [<ins>v2rayN</ins>](https://github.com/2dust/v2rayN)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup> [<ins>SingBox</ins>](https://github.com/GUI-for-Cores/GUI.for.SingBox)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup> [<ins>Karing</ins>](https://github.com/KaringX/karing)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>
 
-> ##### 16.文本编辑 [Notepad--](https://github.com/cxasm/notepad--)
+> ##### 16.文本编辑 [Notepad--](https://github.com/cxasm/notepad--)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>
 
-> ##### 17. Markdown [<ins>Joplin</ins>](https://github.com/laurent22/joplin) [<ins>Typora</ins>](https://typora.io/)
+> ##### 17. Markdown [<ins>Joplin</ins>](https://github.com/laurent22/joplin)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup> [<ins>Typora</ins>](https://typora.io/)
 
 > ##### 18.屏幕扩展 [Spacedesk](https://www.spacedesk.net/)
 
@@ -45,7 +45,7 @@
 
 > ##### 20.解压缩 [<ins>7-Zip</ins>](https://www.7-zip.org/) [<ins>Bandizip</ins>](https://www.bandisoft.com/bandizip/)
 
-> ##### 21.垃圾清理&系统优化 [<ins>CCleaner</ins>](https://www.ccleaner.com/zh-cn) [<ins>Dism++</ins>](https://github.com/Chuyu-Team/Dism-Multi-language) [<ins>RedButton</ins>](https://pothos.info/?p=redbutton) [<ins>PrivaZer</ins>](https://privazer.com/zc/index.php) [<ins>小鱼儿yr系统封装优化设置辅助工具</ins>](https://www.yrxitong.com/h-nd-100.html)
+> ##### 21.垃圾清理&系统优化 [<ins>CCleaner</ins>](https://www.ccleaner.com/zh-cn) [<ins>Dism++</ins>](https://github.com/Chuyu-Team/Dism-Multi-language)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup> [<ins>RedButton</ins>](https://pothos.info/?p=redbutton) [<ins>PrivaZer</ins>](https://privazer.com/zc/index.php) [<ins>小鱼儿yr系统封装优化设置辅助工具</ins>](https://www.yrxitong.com/h-nd-100.html)
 
 > ##### 22.磁盘分析 [<ins>WizTree</ins>](https://diskanalyzer.com/) [<ins>SpaceSniffer</ins>](http://www.uderzo.it/main_products/space_sniffer/)
 
@@ -55,12 +55,12 @@
 
 > ##### 25.Office工具 [Office Tool](https://otp.landian.vip/zh-cn/)
 
-> ##### 26.音乐 [<ins>YouTubeMusic</ins>](https://github.com/th-ch/youtube-music) [<ins>LX Music\(洛雪\)</ins>](https://lxmusic.toside.cn/) [音源](https://www.sixyin.com/10480.html)
+> ##### 26.音乐 [<ins>YouTubeMusic</ins>](https://github.com/th-ch/youtube-music)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup> [<ins>LX Music\(洛雪\)</ins>](https://lxmusic.toside.cn/) [音源](https://www.sixyin.com/10480.html)
 
-> ##### 27.视频 [zyplayer](https://github.com/Hiram-Wong/ZyPlayer)
+> ##### 27.视频 [zyplayer](https://github.com/Hiram-Wong/ZyPlayer)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>
 
-> ##### 28.投屏 [Macast](https://github.com/xfangfang/Macast)
+> ##### 28.投屏 [Macast](https://github.com/xfangfang/Macast)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>
 
-> ##### 29.快速预览 [QuickLook](https://github.com/QL-Win/QuickLook)
+> ##### 29.快速预览 [QuickLook](https://github.com/QL-Win/QuickLook)<sup>![github](https://github.githubassets.com/favicons/favicon.png)</sup>
 
 > ##### 30.系统重装 [EasyRC](https://firpe.cn/page-196)
