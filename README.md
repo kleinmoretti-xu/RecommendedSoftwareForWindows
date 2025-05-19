@@ -5,7 +5,7 @@
 > 有能力的请支持正版！
 
 ## Windows激活、Windows装机软件推荐
-> ##### 1.激活 [windows](https://github.com/massgravel/Microsoft-Activation-Scripts)
+> ##### 1.激活 [Windows](https://github.com/massgravel/Microsoft-Activation-Scripts)，禁止windows更新 [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
 
 > ##### 2.卸载工具 [<u>Bulk-Crap-Uninstaller</u>](https://github.com/Klocman/Bulk-Crap-Uninstaller) [<u>HiBit Uninstaller</u>](https://www.hibitsoft.ir/Uninstaller.html) [<u>Geek Uninstaller</u>](https://geekuninstaller.com/) [<u>IObit Uninstaller</u>](https://www.iobit.com/en/advanceduninstaller.php)*(付费)* [<u>Revo Uninstaller</u>](https://www.revouninstaller.com/zh/)*(付费)*
 
