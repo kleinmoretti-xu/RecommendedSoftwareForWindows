@@ -11,7 +11,7 @@
 
 > ##### 3.内存管理 [Mem Reduct](https://memreduct.org/)
 
-> ##### 4.下载工具 [<ins>Free Download Manager</ins>](https://www.freedownloadmanager.org/) | [<ins>Internet Download Manager</ins>](https://www.internetdownloadmanager.com/)*(付费)*
+> ##### 4.下载工具 [<ins>比特彗星(BitComet)</ins>](https://www.bitcomet.com/en) | [<ins>Motrix</ins>](https://motrix.app/) | [<ins>qBittorrent</ins>](https://www.qbittorrent.org/) | [<ins>Neat Download Manager</ins>](https://www.neatdownloadmanager.com/index.php/en/) | [<ins>Free Download Manager</ins>](https://www.freedownloadmanager.org/) | [<ins>Internet Download Manager</ins>](https://www.internetdownloadmanager.com/)*(付费)*
 
 > ##### 5.桌面美化 [<ins>Rainmeter</ins>](https://www.rainmeter.net/) [<ins>Wallpaper Engine</ins>](https://www.wallpaperengine.io/)*(付费)* [<ins>MyDockFinder</ins>](https://www.mydockfinder.com/)*(付费)*
 
